@@ -15,7 +15,15 @@ class CreateMailsTable extends Migration
     {
         Schema::create('mails', function (Blueprint $table) {
             $table->id();
-            $table->timestamps();
+            $table->unsignedBigInteger('id_user_from');
+            $table->unsignedBigInteger('id_user_to');
+            $table->foreign('id_user_from')->references('id')->on('users');
+            $table->foreign('id_user_to')->references('id')->on('users');
+            $table->string('subject');
+            $table->string('message');
+            $table->boolean('is_read');
+            $table->timestamp('sent')->nullable();
+            $table->timestamp('created')->default(date('Y-m-d H:i:s'));;
         });
     }
 

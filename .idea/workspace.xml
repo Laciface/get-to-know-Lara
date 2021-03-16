@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cac70e05-21bf-465c-929b-53672adc4d03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_03_16_163725_create_mails_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_03_16_163725_create_mails_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +35,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -135,7 +161,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3_SI_week/kész-Lara/get-to-know-lara/get-to-know-lara-backend" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -155,29 +181,42 @@
       <updated>1615831243883</updated>
       <workItem from="1615831244984" duration="2259000" />
       <workItem from="1615884964270" duration="608000" />
+      <workItem from="1615912578239" duration="2773000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2511" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615831295456">
+    <state x="2511" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615914700019">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2511" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1615831295456" />
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615883735714">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="2511" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1615914700019" />
+    <state x="2655" y="291" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615914157578">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2655" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1615914157578" />
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1615883735714" />
     <state x="2813" y="415" width="196" height="284" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1615831335752">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2813" y="415" width="196" height="284" key="com.intellij.database.actions.DdlActions$CreateObject$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1615831335752" />
-    <state x="2775" y="415" width="367" height="290" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1615831411816">
+    <state x="2775" y="415" width="367" height="297" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1615914638976">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2775" y="415" width="367" height="290" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1615831411816" />
+    <state x="2775" y="415" width="367" height="297" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1615914638976" />
     <state x="2733" y="203" width="356" height="708" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1615831343964">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
