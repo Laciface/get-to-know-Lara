@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cac70e05-21bf-465c-929b-53672adc4d03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lara-back.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lara-back.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_03_16_163725_create_mails_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_03_16_163725_create_mails_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +151,7 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="ProjectId" id="1pnub6g5gcIarkzfeyV13NjVhGH" />
@@ -181,7 +183,7 @@
       <updated>1615831243883</updated>
       <workItem from="1615831244984" duration="2259000" />
       <workItem from="1615884964270" duration="608000" />
-      <workItem from="1615912578239" duration="2773000" />
+      <workItem from="1615912578239" duration="4137000" />
     </task>
     <servers />
   </component>
