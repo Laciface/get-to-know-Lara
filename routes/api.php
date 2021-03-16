@@ -20,3 +20,9 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::post('/registration',[\App\Http\Controllers\RegisterController::class, 'register']);
+Route::post('/login', [\App\Http\Controllers\RegisterController::class, 'login']);
+
+Route::group(['middleware' => 'auth:sanctum'], function ()
+{
+
+});
